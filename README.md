@@ -1,4 +1,6 @@
 Hi there 👋🏾
+
+
 My name is Mahamed Abdulle and I'm currently studying BSc Computer Science at Goldsmiths University
 - 👀 I’m interested in Machine Learning and Aritifical Inteligence
 - 🌱 I’m currently self-studying Python and all of its libraries
