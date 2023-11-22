@@ -3,7 +3,7 @@ Hey there 👋🏾
 My name is Mahamed Abdulle and I'm currently studying BSc Computer Science at Goldsmiths University
 - 👀 I’m interested in Machine Learning and Aritifical Inteligence
 - 🌱 Learning is a journey, so I'm always learning something new
-- 📚 Don't be shy to fix any of my mistakes, I'm still learning.**
+- 📚 Don't be shy to fix any of my mistakes, I'm still learning.
 
 ### 🧰 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,11 +21,6 @@ My name is Mahamed Abdulle and I'm currently studying BSc Computer Science at Go
 
 ---
 
-
-
-### 📊 Stats
-
-![Mahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamed-abdulle&show_icons=true&theme=gruvbox)
 
 
 <a href="https://www.linkedin.com/in/mahamedabdulle/">
