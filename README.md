@@ -1,6 +1,6 @@
 # Hey there 👋🏾
 
-I'm **Mahamed Abdulle**, a recent **First Class BSc Computer Science graduate** from **Goldsmiths, University of London**. I am passionate about **Software Engineering**, with a strong focus on **Machine Learning** and **Artificial Intelligence**.
+I'm **Mahamed Abdulle**, a recent **First Class BSc Computer Science graduate** from **Goldsmiths, University of London**. I am passionate about **Data Analytics**, with a strong focus on **Machine Learning** and **Artificial Intelligence**.
 
 - 👀 I’m interested in leveraging **ML and AI** to solve real-world problems and create impactful software solutions.
 - 🚀 Currently expanding my skills in **deep learning** and **full-stack development**.
